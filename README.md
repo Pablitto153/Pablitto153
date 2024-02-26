@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pablitto153
-- 👀 I’m interested in video games, cooking at home and learning somting new
+- 👀 I’m interested in video games, cooking at home and learning something new
 - 🌱 I’m currently learning language C++, becauce i want to create a games, engines and aplications.
 - 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me 
